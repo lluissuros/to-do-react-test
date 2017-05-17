@@ -1,0 +1,7 @@
+.TodosList {
+  display: flex;
+  position: relative;
+  width: 100%;
+  max-width: 500px;
+  flex-direction: column;
+}

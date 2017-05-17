@@ -1,0 +1,10 @@
+.ItemForm {
+  display: flex;
+  position: relative;
+  width: 100%;
+  max-width: 500px;
+}
+
+.ItemForm-button {
+  margin-left: 10px;
+}

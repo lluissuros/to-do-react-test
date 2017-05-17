@@ -1,0 +1,13 @@
+.Input {
+  display: flex;
+  flex: 1;
+  border-radius: 10px;
+  border: solid 1px black;
+  padding: 15px;
+  font-size: 25px;
+  min-width: 0;
+}
+
+.Input:focus {
+  outline-width: 0;
+}
